@@ -10,6 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@webdav-server/ftp": "^1.0.2",
+    "@webdav-server/http": "^1.0.1",
     "webdav": "^0.10.0",
     "webdav-server": "^2.2.2"
   },
